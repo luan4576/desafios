@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50539955833\\Documents\\exercicios-2\\exercicios-2\\Lixeira\\Lixeira.csproj",
+      "projectUniqueName": "C:\\Users\\50539955833\\Documents\\exercicios-2\\exercicios-2\\Reciclagem\\Lixeira.csproj",
       "projectName": "Lixeira",
-      "projectPath": "C:\\Users\\50539955833\\Documents\\exercicios-2\\exercicios-2\\Lixeira\\Lixeira.csproj",
+      "projectPath": "C:\\Users\\50539955833\\Documents\\exercicios-2\\exercicios-2\\Reciclagem\\Lixeira.csproj",
       "packagesPath": "C:\\Users\\50539955833\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50539955833\\Documents\\exercicios-2\\exercicios-2\\Lixeira\\obj\\",
+      "outputPath": "C:\\Users\\50539955833\\Documents\\exercicios-2\\exercicios-2\\Reciclagem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

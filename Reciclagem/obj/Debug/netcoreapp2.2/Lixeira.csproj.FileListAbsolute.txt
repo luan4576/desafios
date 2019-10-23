@@ -1,0 +1,4 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\Reciclagem\obj\Debug\netcoreapp2.2\Lixeira.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\Reciclagem\obj\Debug\netcoreapp2.2\Lixeira.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\Reciclagem\obj\Debug\netcoreapp2.2\Lixeira.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\Reciclagem\obj\Debug\netcoreapp2.2\Lixeira.AssemblyInfo.cs
