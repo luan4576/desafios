@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\obj\Debug\netcoreapp2.2\Retangulo.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\obj\Debug\netcoreapp2.2\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\obj\Debug\netcoreapp2.2\Retangulo.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\obj\Debug\netcoreapp2.2\Retangulo.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\bin\Debug\netcoreapp2.2\Retangulo.deps.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\bin\Debug\netcoreapp2.2\Retangulo.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\bin\Debug\netcoreapp2.2\Retangulo.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\bin\Debug\netcoreapp2.2\Retangulo.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\bin\Debug\netcoreapp2.2\Retangulo.pdb
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\obj\Debug\netcoreapp2.2\Retangulo.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\retangulo\obj\Debug\netcoreapp2.2\Retangulo.pdb
