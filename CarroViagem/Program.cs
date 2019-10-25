@@ -17,7 +17,7 @@ namespace CarroViagem
             distancia=tempo*velocidade;
             int litrosUsados = distancia/12;
 
-            System.Console.WriteLine("velocidade media:"+velocidade+"tempo gasto na viajem"+tempo+"litros usados na viajem"+litrosUsados);
+            System.Console.WriteLine("velocidade media:"+velocidade+"tempo gasto na viajem"+tempo+"litros usados na viajem"+litrosUsados+"distancia percorrida:"+distancia);
             
         }
     }

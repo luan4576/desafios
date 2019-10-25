@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\bin\Debug\netcoreapp2.2\VariaveisA-B.deps.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\bin\Debug\netcoreapp2.2\VariaveisA-B.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\bin\Debug\netcoreapp2.2\VariaveisA-B.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\bin\Debug\netcoreapp2.2\VariaveisA-B.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\bin\Debug\netcoreapp2.2\VariaveisA-B.pdb
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\obj\Debug\netcoreapp2.2\VariaveisA-B.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\obj\Debug\netcoreapp2.2\VariaveisA-B.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\obj\Debug\netcoreapp2.2\VariaveisA-B.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\obj\Debug\netcoreapp2.2\VariaveisA-B.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\obj\Debug\netcoreapp2.2\VariaveisA-B.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\VariaveisA-B\obj\Debug\netcoreapp2.2\VariaveisA-B.pdb
