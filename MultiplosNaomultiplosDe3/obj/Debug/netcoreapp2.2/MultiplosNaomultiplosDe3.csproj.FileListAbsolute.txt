@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\obj\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\obj\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\obj\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\obj\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\bin\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.deps.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\bin\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\bin\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\bin\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\bin\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.pdb
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\obj\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\MultiplosNaoMultiplosDe3\obj\Debug\netcoreapp2.2\MultiplosNaomultiplosDe3.pdb

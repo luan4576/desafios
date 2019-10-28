@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\obj\Debug\netcoreapp2.2\numerosCrescentes.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\obj\Debug\netcoreapp2.2\numerosCrescentes.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\obj\Debug\netcoreapp2.2\numerosCrescentes.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\obj\Debug\netcoreapp2.2\numerosCrescentes.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\bin\Debug\netcoreapp2.2\numerosCrescentes.deps.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\bin\Debug\netcoreapp2.2\numerosCrescentes.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\bin\Debug\netcoreapp2.2\numerosCrescentes.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\bin\Debug\netcoreapp2.2\numerosCrescentes.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\bin\Debug\netcoreapp2.2\numerosCrescentes.pdb
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\obj\Debug\netcoreapp2.2\numerosCrescentes.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\numerosCrescentes\obj\Debug\netcoreapp2.2\numerosCrescentes.pdb
