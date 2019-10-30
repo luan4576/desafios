@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\bin\Debug\netcoreapp2.2\ladosTriangulo.deps.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\bin\Debug\netcoreapp2.2\ladosTriangulo.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\bin\Debug\netcoreapp2.2\ladosTriangulo.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\bin\Debug\netcoreapp2.2\ladosTriangulo.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\bin\Debug\netcoreapp2.2\ladosTriangulo.pdb
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\obj\Debug\netcoreapp2.2\ladosTriangulo.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\obj\Debug\netcoreapp2.2\ladosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\obj\Debug\netcoreapp2.2\ladosTriangulo.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\obj\Debug\netcoreapp2.2\ladosTriangulo.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\obj\Debug\netcoreapp2.2\ladosTriangulo.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\ladosTriangulo\obj\Debug\netcoreapp2.2\ladosTriangulo.pdb

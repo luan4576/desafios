@@ -1,0 +1,4 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\verboInfinitivo\obj\Debug\netcoreapp2.2\verboInfinitivo.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\verboInfinitivo\obj\Debug\netcoreapp2.2\verboInfinitivo.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\verboInfinitivo\obj\Debug\netcoreapp2.2\verboInfinitivo.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\verboInfinitivo\obj\Debug\netcoreapp2.2\verboInfinitivo.AssemblyInfo.cs

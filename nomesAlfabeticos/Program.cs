@@ -8,16 +8,22 @@ namespace nomesAlfabeticos
         static void Main(string[] args)
         {
             string nome;
-            System.Console.WriteLine("digite o primeiro nome ");
-            n=Console.ReadLine();
             
-            System.Console.WriteLine("digite o segundo numero");
-            n=Console.ReadLine();
-            
-            List<string> alfabeto = new List<string>(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,Q,r,s,t,u,v,w,x,y,z);
         
-		if (nome )
-		
+            
+            List<string> alfabeto = new List<string>();
+        
+                for(int r =0;r <=1; r++){
+                nome = Console.ReadLine();
+                alfabeto.Add(nome);
+                }
+                Console.Clear();
+                alfabeto.Sort();
+
+                foreach (string conteudo in alfabeto)
+                {
+                    System.Console.WriteLine(conteudo);
+                }
 
 
             
