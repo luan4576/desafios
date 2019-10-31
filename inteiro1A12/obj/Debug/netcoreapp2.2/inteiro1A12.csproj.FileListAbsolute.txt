@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\bin\Debug\netcoreapp2.2\inteiro1A12.deps.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\bin\Debug\netcoreapp2.2\inteiro1A12.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\bin\Debug\netcoreapp2.2\inteiro1A12.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\bin\Debug\netcoreapp2.2\inteiro1A12.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\bin\Debug\netcoreapp2.2\inteiro1A12.pdb
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\obj\Debug\netcoreapp2.2\inteiro1A12.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\obj\Debug\netcoreapp2.2\inteiro1A12.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\obj\Debug\netcoreapp2.2\inteiro1A12.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\obj\Debug\netcoreapp2.2\inteiro1A12.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\obj\Debug\netcoreapp2.2\inteiro1A12.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\inteiro1A12\obj\Debug\netcoreapp2.2\inteiro1A12.pdb
