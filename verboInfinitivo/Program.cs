@@ -12,6 +12,8 @@ namespace verboInfinitivo
             if (verbo){
             verbo= ar,er,ir;
             }else{}
+
+        
         }
     }
 }
