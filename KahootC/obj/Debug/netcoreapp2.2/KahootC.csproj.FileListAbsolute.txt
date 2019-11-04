@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\obj\Debug\netcoreapp2.2\KahootC.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\obj\Debug\netcoreapp2.2\KahootC.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\obj\Debug\netcoreapp2.2\KahootC.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\obj\Debug\netcoreapp2.2\KahootC.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\bin\Debug\netcoreapp2.2\KahootC.deps.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\bin\Debug\netcoreapp2.2\KahootC.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\bin\Debug\netcoreapp2.2\KahootC.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\bin\Debug\netcoreapp2.2\KahootC.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\bin\Debug\netcoreapp2.2\KahootC.pdb
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\obj\Debug\netcoreapp2.2\KahootC.dll
+C:\Users\50539955833\Documents\exercicios-2\exercicios-2\KahootC\obj\Debug\netcoreapp2.2\KahootC.pdb
